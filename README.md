@@ -1,18 +1,21 @@
-## :book: About Me
-- 🖥&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/_-Android-Green?style=flat&color=success) ![](https://img.shields.io/badge/_-iOS-Orange?style=flat&color=orange) ![](https://img.shields.io/badge/_-Flutter-Green?style=flat&color=red) Mobile Developer 
-- :hourglass_flowing_sand: 7+ years experience on Mobile
-- 🎓&nbsp;&nbsp;&nbsp;Master's Degrees in Computers Science
-- 💼&nbsp;&nbsp;&nbsp;Current working [Globo.com](https://github.com/globoi)
+```swift
+struct Bio {
+  let name = "Agripino Gabriel M. Damasceno"
+  var title = "Software Engineer"
+  var company = "Globo.com | Remote"
+  var location = "Belo Horizonte, Minas Gerais - Brazil"
+}
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Android-Java|Kotlin-Green?style=for-the-badge&color=success)
-![](https://img.shields.io/badge/iOS-Swift|Objective--C-Green?style=for-the-badge&color=orange)
-![](https://img.shields.io/badge/Flutter-Dart-Blue?style=for-the-badge&color=blue)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=for-the-badge&color=red)
-![](https://img.shields.io/badge/Database-MySQL|SQLServer-informational?style=for-the-badge&color=blue)
-![](https://img.shields.io/badge/Code-JavaScript|TypeScript-informational?style=for-the-badge&color=2bbc8a)
-![](https://img.shields.io/badge/Web-Angular-informational?style=for-the-badge&color=red)
+struct Skills {
+  var languages  = ["Java", "Kotlin", "Swift", "Objective-C", "Dart", "Javascript"]
+  var databases  = ["MySQL", "SQLServer", "PostgreSQL"]
+  var frameworks = ["iOS", "Android", "Flutter", "Angular"]
+  var cloud = ["AWS"]
+}
+```
+
+## Projects I am currently working on
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agripinogabriel&repo=swiftui-calendar-view&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/agripinogabriel/swiftui-calendar-view)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/MartinHeinz/MartinHeinz">
