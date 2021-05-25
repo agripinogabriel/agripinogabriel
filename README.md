@@ -15,7 +15,7 @@ struct Skills {
 ```
 
 ## Projects I am currently working on
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agripinogabriel&repo=swiftui-calendar-view&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/agripinogabriel/swiftui-calendar-view)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agripinogabriel&repo=calendar-view&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/agripinogabriel/calendar-view)
 
 ## GitHub Stats
 <a href="https://github.com/MartinHeinz/MartinHeinz">
