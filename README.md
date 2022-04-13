@@ -1,6 +1,3 @@
-## Hi there 👋
-I'm a software engineer based in Belo Horizonte, Brasil 🇧🇷 and working for [Globo.com](https://www.globo.com/) 🇧🇷. 
-
 ## About me
 ```swift
 struct Bio {
