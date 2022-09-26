@@ -15,11 +15,6 @@ struct Skills {
 }
 ```
 
-## Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agripinogabriel&hide_langs_below=1&theme=dracula&line_height=27&layout=compact&count_private=true" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=agripinogabriel&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=dracula" alt="agripinogabriel's Github Stats" />
-
 ## How to reach me
 You can reach me at the email in my Github profile. Follow my socials!
 
