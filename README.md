@@ -15,7 +15,11 @@ struct Skills {
 }
 ```
 
-## How to reach me
+### :mailbox_with_mail: How to reach me
 You can reach me at the email in my Github profile. Follow my socials!
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/agripinogabriel/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agripinogabriel/)](https://www.linkedin.com/in/agripinogabriel/)
+
+#### 📘 Latest books: 
+- ["The Manager's Path" by Camille Fournier](https://ler.amazon.com.br/kp/embed?asin=B06XP3GJ7F&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_DNSWQN3EAWMKYQ9XGPQ7)
+- ["Fundamentals of Software Architecture: An Engineering Approach" by Mark Richards & Neal Ford](https://ler.amazon.com.br/kp/embed?asin=B0849MPK73&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_AD3PEP7P2Y3ZXZ0H2X28)
